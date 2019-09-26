@@ -1,5 +1,7 @@
-![License](https://img.shields.io/github/license/StefanWosnik/MyApplicationTest?style=flat-square)
+![License](https://img.shields.io/github/license/StefanWosnik/MyApplicationTest)
+
 ![Language](https://img.shields.io/github/languages/top/StefanWosnik/MyApplicationTest)
+
 ![Travis-Build](https://travis-ci.org/StefanWosnik/MyApplicationTest.svg?branch=master)
 
 # MyApplicationTest
