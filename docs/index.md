@@ -1,5 +1,7 @@
 ---
 title: This is the title
-layout: home
+layout: default
 ---
 # Test
+## Test
+### Test
