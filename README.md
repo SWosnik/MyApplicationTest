@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/github/languages/top/StefanWosnik/MyApplicationTest)
 
-![Travis-Build](https://travis-ci.org/StefanWosnik/MyApplicationTest.svg?branch=master)
+[![Build Status](https://travis-ci.org/StefanWosnik/MyApplicationTest.svg?branch=master)](https://travis-ci.org/StefanWosnik/MyApplicationTest)
 
 # MyApplicationTest
 
