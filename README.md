@@ -7,4 +7,4 @@
 # MyApplicationTest
 
 
-This is only a test repo to play aroud with github features.
+This is only a test repo to play with github features.
