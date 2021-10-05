@@ -6,5 +6,5 @@
 
 # MyApplicationTest
 
-
 This is only a test repo to play with github features.
+Feel free to copy.
